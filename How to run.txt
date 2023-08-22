@@ -1,0 +1,24 @@
+Commad for install modules
+
+npm init
+
+npm i socket.io
+(use version -- 1) 
+
+npm i nodemon --save-dev
+
+npm i express
+
+
+//how to run
+
+1) Run index.html on any port
+
+2)Run backend (index.js)  using 
+	nodemon index.js   (in terminal)
+
+Socket.IO is a popular JavaScript library that enables real-time, bidirectional communication between web clients (typically browsers) and servers. It's often used to build applications that require instant updates, collaboration, and interaction between multiple users. Here are some common use cases for Socket.IO:
+
+
+
+
