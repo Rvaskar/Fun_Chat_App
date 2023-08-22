@@ -1,6 +1,6 @@
 Commad for install modules
 
-npm init
+npm init    //use this command in nodeServer directory
 
 npm i socket.io
 (use version -- 1) 
